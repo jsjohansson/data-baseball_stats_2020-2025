@@ -1,4 +1,4 @@
-# MLB Data, 2020-2025 - complete reference
+# MLB Data, 2020-2026 - complete reference
 
 Major League Baseball data for **all 30 clubs across the 2020-2025 seasons**, scraped from
 [Baseball-Reference](https://www.baseball-reference.com/) and normalised into one tidy table
